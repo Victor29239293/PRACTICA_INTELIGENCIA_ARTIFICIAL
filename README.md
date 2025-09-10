@@ -1,6 +1,6 @@
 # Práctica
 
-Este proyecto contiene una aplicación **Python que requiere la creación de un entorno virtual e instalación de dependencias para su ejecución.
+Este proyecto contiene una aplicación Python que requiere la creación de un entorno virtual e instalación de dependencias para su ejecución.
 
 
 ## ⚙️ Instalación y configuración
